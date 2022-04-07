@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/DulsaraNethmin/DulsaraNethmin/blob/main/PicsArt_04-07-05.24.53.jpg)
+![Design and Development](https://github.com/DulsaraNethmin/DulsaraNethmin/blob/main/nd.jpg)
 
 # Nethmin Dulsara
 I'm Nethmin Dulsara, and I am undergraduate of University of Moratuwa Sri Lanka do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
