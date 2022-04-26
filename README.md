@@ -5,7 +5,7 @@ I'm Nethmin Dulsara, and I am undergraduate of University of Moratuwa Sri Lanka.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DulsaraNethmin&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DulsaraNethmin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DulsaraNethmin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills and Experience
 * ⚛ React
