@@ -8,7 +8,13 @@
 
 I build backend systems and the infrastructure they run on — distributed messaging,
 authentication platforms, and cloud-native deployment pipelines.
-Engineer and researcher, based at the University of Moratuwa.
+Currently reading for an **MSc in Data Science &amp; Artificial Intelligence**
+at the University of Moratuwa, Faculty of Engineering.
+
+<br>
+
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_%E2%80%93_Associate-FF9900?style=flat-square)
+![MSc Data Science and AI](https://img.shields.io/badge/MSc-Data_Science_%26_AI-4A5568?style=flat-square)
 
 <br>
 
