@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="478" viewBox="0 0 880 478" role="img" aria-label="Animated terminal introducing Nethmin Dulsara">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="500" viewBox="0 0 880 500" role="img" aria-label="Animated terminal introducing Nethmin Dulsara">
   <title>nethmin@platform — zsh</title>
 
   <!-- window -->
-  <rect x="1" y="1" width="878" height="476" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="878" height="498" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <line x1="1" y1="44" x2="879" y2="44" stroke="#30363d" stroke-width="1"/>
 
   <!-- traffic lights + title -->
@@ -48,15 +48,15 @@
     </g>
     <g opacity="0">
       <set attributeName="opacity" to="1" begin="3.95s" fill="freeze"/>
-      <text y="230"><tspan x="28" fill="#e6edf3">aws-architecture</tspan><tspan x="248" fill="#e6edf3">1/1</tspan><tspan x="318" fill="#7ee787">Running</tspan><tspan x="408" fill="#8b949e">3y</tspan></text>
+      <text y="230"><tspan x="28" fill="#e6edf3">aws-cloud-computing</tspan><tspan x="248" fill="#e6edf3">1/1</tspan><tspan x="318" fill="#7ee787">Running</tspan><tspan x="408" fill="#8b949e">3y</tspan></text>
     </g>
     <g opacity="0">
       <set attributeName="opacity" to="1" begin="4.1s" fill="freeze"/>
-      <text y="252"><tspan x="28" fill="#e6edf3">distributed-messaging</tspan><tspan x="248" fill="#e6edf3">1/1</tspan><tspan x="318" fill="#7ee787">Running</tspan><tspan x="408" fill="#8b949e">2y</tspan></text>
+      <text y="252"><tspan x="28" fill="#e6edf3">ai-ml</tspan><tspan x="248" fill="#e6edf3">1/1</tspan><tspan x="318" fill="#7ee787">Running</tspan><tspan x="408" fill="#8b949e">2y</tspan></text>
     </g>
     <g opacity="0">
       <set attributeName="opacity" to="1" begin="4.25s" fill="freeze"/>
-      <text y="274"><tspan x="28" fill="#e6edf3">ai-automation</tspan><tspan x="248" fill="#e6edf3">1/1</tspan><tspan x="318" fill="#7ee787">Running</tspan><tspan x="408" fill="#8b949e">1y</tspan></text>
+      <text y="274"><tspan x="28" fill="#e6edf3">agentic-ai-automation</tspan><tspan x="248" fill="#e6edf3">1/1</tspan><tspan x="318" fill="#7ee787">Running</tspan><tspan x="408" fill="#8b949e">1y</tspan></text>
     </g>
 
     <!-- ~ ❯ cat certifications.txt -->
@@ -76,12 +76,16 @@
       <set attributeName="opacity" to="1" begin="7.8s" fill="freeze"/>
       <text x="28" y="406"><tspan fill="#79c0ff">» </tspan><tspan fill="#d2a8ff">MSc Data Science &amp; AI</tspan><tspan fill="#8b949e"> — University of Moratuwa</tspan></text>
     </g>
+    <g opacity="0">
+      <set attributeName="opacity" to="1" begin="7.95s" fill="freeze"/>
+      <text x="28" y="428"><tspan fill="#79c0ff">» </tspan><tspan fill="#d2a8ff">BSc (Hons) Information Technology</tspan><tspan fill="#8b949e"> — University of Moratuwa</tspan></text>
+    </g>
 
     <!-- idle prompt + blinking cursor -->
     <g opacity="0">
       <set attributeName="opacity" to="1" begin="8.4s" fill="freeze"/>
-      <text x="28" y="450"><tspan fill="#79c0ff">~</tspan><tspan fill="#d2a8ff"> ❯ </tspan></text>
-      <rect x="62" y="437" width="9" height="17" fill="#7ee787">
+      <text x="28" y="472"><tspan fill="#79c0ff">~</tspan><tspan fill="#d2a8ff"> ❯ </tspan></text>
+      <rect x="62" y="459" width="9" height="17" fill="#7ee787">
         <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" begin="8.4s" dur="1.1s" repeatCount="indefinite"/>
       </rect>
     </g>

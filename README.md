@@ -21,7 +21,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="Animated terminal: whoami — Nethmin Dulsara, Software Engineer. kubectl get pods -n expertise — go, kubernetes, aws-architecture, distributed-messaging, ai-automation, all Running. Certifications — AWS Certified Solutions Architect (Associate). Education — MSc Data Science & AI, University of Moratuwa." src="assets/terminal-light.svg" width="820">
+  <img alt="Animated terminal: whoami — Nethmin Dulsara, Software Engineer. kubectl get pods -n expertise — go, kubernetes, aws-cloud-computing, ai-ml, agentic-ai-automation, all Running. Certifications — AWS Certified Solutions Architect (Associate). Education — MSc Data Science & AI and BSc (Hons) Information Technology, University of Moratuwa." src="assets/terminal-light.svg" width="820">
 </picture>
 
 </div>
