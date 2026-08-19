@@ -84,8 +84,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,ts,py,java,nestjs,nextjs,react,fastapi,flutter,kubernetes,aws,gcp,docker,jenkins,nginx,githubactions,linux,postgres,mongodb,redis,rabbitmq,kafka,tensorflow,pytorch&perline=8&theme=dark">
-  <img alt="Go, TypeScript, Python, Java, NestJS, Next.js, React, FastAPI, Flutter, Kubernetes, AWS, GCP, Docker, Jenkins, Nginx, GitHub Actions, Linux, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka, TensorFlow, PyTorch" src="https://skillicons.dev/icons?i=go,ts,py,java,nestjs,nextjs,react,fastapi,flutter,kubernetes,aws,gcp,docker,jenkins,nginx,githubactions,linux,postgres,mongodb,redis,rabbitmq,kafka,tensorflow,pytorch&perline=8&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpy%2Cnextjs%2Caws%2Cdocker%2Clinux&perline=6&theme=dark">
+  <img alt="Go, Python, Next.js, AWS, Docker, Linux" src="https://skillicons.dev/icons?i=go%2Cpy%2Cnextjs%2Caws%2Cdocker%2Clinux&perline=6&theme=light" width="460">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjava%2Ckubernetes%2Cnestjs%2Creact%2Cfastapi%2Cflutter%2Cgcp%2Cjenkins%2Cnginx%2Cgithubactions%2Cpostgres%2Cmongodb%2Credis%2Crabbitmq%2Ckafka%2Ctensorflow%2Cpytorch&perline=9&theme=dark">
+  <img alt="TypeScript, Java, Kubernetes, NestJS, React, FastAPI, Flutter, GCP, Jenkins, Nginx, GitHub Actions, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka, TensorFlow, PyTorch" src="https://skillicons.dev/icons?i=ts%2Cjava%2Ckubernetes%2Cnestjs%2Creact%2Cfastapi%2Cflutter%2Cgcp%2Cjenkins%2Cnginx%2Cgithubactions%2Cpostgres%2Cmongodb%2Credis%2Crabbitmq%2Ckafka%2Ctensorflow%2Cpytorch&perline=9&theme=light" width="430">
 </picture>
 
 <br><br>
@@ -108,17 +115,6 @@
 ## 📈 `~/stats`
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DulsaraNethmin&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DulsaraNethmin&show_icons=true&hide_border=true&bg_color=00000000">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DulsaraNethmin&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=github_dark">
-  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulsaraNethmin&layout=compact&langs_count=8&hide_border=true&bg_color=00000000">
-</picture>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DulsaraNethmin&hide_border=true&theme=github-dark-blue">
