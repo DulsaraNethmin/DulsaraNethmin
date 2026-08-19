@@ -3,15 +3,14 @@
 <img src="assets/name-banner.svg" alt="Nethmin Dulsara — Software Engineer · Sri Lanka" width="820">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&center=true&vCenter=true&width=620&height=34&color=79C0FF&lines=Backend+%26+Platform+Engineer;AWS+Certified+Solutions+Architect+%E2%80%93+Associate;Go+%C2%B7+Kubernetes+%C2%B7+Distributed+Systems;MSc+Data+Science+%26+AI+%40+University+of+Moratuwa">
-  <img alt="Backend & Platform Engineer · AWS Certified Solutions Architect · Go · Kubernetes · MSc Data Science & AI" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&center=true&vCenter=true&width=620&height=34&color=0969DA&lines=Backend+%26+Platform+Engineer;AWS+Certified+Solutions+Architect+%E2%80%93+Associate;Go+%C2%B7+Kubernetes+%C2%B7+Distributed+Systems;MSc+Data+Science+%26+AI+%40+University+of+Moratuwa">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&center=true&vCenter=true&width=620&height=34&color=79C0FF&lines=Software+Engineer;AWS+Certified+Solutions+Architect+%E2%80%93+Associate;Go+%C2%B7+Kubernetes+%C2%B7+Distributed+Systems;AI+%26+Workflow+Automation;MSc+Data+Science+%26+AI+%40+University+of+Moratuwa">
+  <img alt="Software Engineer · AWS Certified Solutions Architect · Go · Kubernetes · AI & Workflow Automation · MSc Data Science & AI" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&center=true&vCenter=true&width=620&height=34&color=0969DA&lines=Software+Engineer;AWS+Certified+Solutions+Architect+%E2%80%93+Associate;Go+%C2%B7+Kubernetes+%C2%B7+Distributed+Systems;AI+%26+Workflow+Automation;MSc+Data+Science+%26+AI+%40+University+of+Moratuwa">
 </picture>
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nethmin-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/nethmin)
 [![Email](https://img.shields.io/badge/Email-dulsaranethmin@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dulsaranethmin@gmail.com)
-[![CV](https://img.shields.io/badge/CV-PDF-4A5568?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/DulsaraNethmin/DulsaraNethmin/raw/main/Nethmin%27sCV.pdf)
 [![Profile views](https://komarev.com/ghpvc/?username=DulsaraNethmin&style=flat-square&color=4A5568&label=Profile+views)](https://github.com/DulsaraNethmin)
 
 </div>
@@ -22,7 +21,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="Animated terminal: whoami — Nethmin Dulsara, Software Engineer. kubectl get pods -n expertise — go, kubernetes, aws-architecture, distributed-messaging, all Running. Certifications — AWS Certified Solutions Architect (Associate). Education — MSc Data Science & AI, University of Moratuwa." src="assets/terminal-light.svg" width="820">
+  <img alt="Animated terminal: whoami — Nethmin Dulsara, Software Engineer. kubectl get pods -n expertise — go, kubernetes, aws-architecture, distributed-messaging, ai-automation, all Running. Certifications — AWS Certified Solutions Architect (Associate). Education — MSc Data Science & AI, University of Moratuwa." src="assets/terminal-light.svg" width="820">
 </picture>
 
 </div>
@@ -85,11 +84,21 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,ts,py,java,nestjs,nextjs,react,fastapi,flutter,kubernetes,aws,docker,jenkins,nginx,githubactions,linux,postgres,mongodb,redis,rabbitmq&perline=10&theme=dark">
-  <img alt="Go, TypeScript, Python, Java, NestJS, Next.js, React, FastAPI, Flutter, Kubernetes, AWS, Docker, Jenkins, Nginx, GitHub Actions, Linux, PostgreSQL, MongoDB, Redis, RabbitMQ" src="https://skillicons.dev/icons?i=go,ts,py,java,nestjs,nextjs,react,fastapi,flutter,kubernetes,aws,docker,jenkins,nginx,githubactions,linux,postgres,mongodb,redis,rabbitmq&perline=10&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,ts,py,java,nestjs,nextjs,react,fastapi,flutter,kubernetes,aws,gcp,docker,jenkins,nginx,githubactions,linux,postgres,mongodb,redis,rabbitmq,kafka,tensorflow,pytorch&perline=8&theme=dark">
+  <img alt="Go, TypeScript, Python, Java, NestJS, Next.js, React, FastAPI, Flutter, Kubernetes, AWS, GCP, Docker, Jenkins, Nginx, GitHub Actions, Linux, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka, TensorFlow, PyTorch" src="https://skillicons.dev/icons?i=go,ts,py,java,nestjs,nextjs,react,fastapi,flutter,kubernetes,aws,gcp,docker,jenkins,nginx,githubactions,linux,postgres,mongodb,redis,rabbitmq,kafka,tensorflow,pytorch&perline=8&theme=light">
 </picture>
 
 <br><br>
+
+**🤖 AI &amp; Workflow Automation**
+
+<img src="https://img.shields.io/badge/LLM_Engineering-6E56CF?style=flat-square" alt="LLM Engineering">
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude API">
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+
+<br>
 
 <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak">
 <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO">
@@ -131,10 +140,10 @@
 
 <div align="center">
 
-<samp>Open to conversations about backend architecture, platform engineering, and distributed systems.</samp>
+<samp>Open to conversations about backend architecture, distributed systems, and AI-powered automation.</samp>
 
 <br><br>
 
-[LinkedIn](https://www.linkedin.com/in/nethmin) &nbsp;·&nbsp; [Email](mailto:dulsaranethmin@gmail.com) &nbsp;·&nbsp; [CV](https://github.com/DulsaraNethmin/DulsaraNethmin/raw/main/Nethmin%27sCV.pdf)
+[LinkedIn](https://www.linkedin.com/in/nethmin) &nbsp;·&nbsp; [Email](mailto:dulsaranethmin@gmail.com)
 
 </div>
