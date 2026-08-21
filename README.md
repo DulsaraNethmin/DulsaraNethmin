@@ -75,7 +75,7 @@
 
 <div align="center">
 
-🎯 Off the clock: <a href="https://github.com/DulsaraNethmin/relaxing-shooter"><b>relaxing-shooter</b></a> — a browser game in TypeScript. <a href="[https://relaxing-shooter.vercel.app](https://relaxing-shooter-kt8fk2ear-nethmin99s-projects.vercel.app)">Play it →</a>
+🎯 Off the clock: <a href="https://github.com/DulsaraNethmin/relaxing-shooter"><b>relaxing-shooter</b></a> — a browser game in TypeScript. <a href="https://relaxing-shooter-kt8fk2ear-nethmin99s-projects.vercel.app">Play it →</a>
 
 </div>
 
